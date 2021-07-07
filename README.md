@@ -39,4 +39,6 @@ Challenge Description:
 9. Write your flawless code, commit and push!
 10. Go back to Slack to get praise for a job well done :)
 
+Note: You can follow the same process to contribute to someone elses challenge. Simply use the branch and folder naming convention to avoid conflicts 
+
 
