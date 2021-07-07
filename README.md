@@ -31,7 +31,7 @@ _Please visit the following page to find out more information on how to_ [_contr
 8.  Create a README document in your new folder on your initial commit with the following template
 
 Challenge Name: 
-Challenge: Title of your challenge
+*Challenge: Title of your challenge*
 Challenge Description:
 *You can simply copy the original message content from the challenge post in the #njinius_challenges channel*
 
